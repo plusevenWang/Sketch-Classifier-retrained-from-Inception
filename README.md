@@ -13,7 +13,9 @@ retrain命令为
 >python retrain.py --model_dir .\inception --image_dir .\Pokemon --how_many_training_steps 5000
 
 最后的迭代次数参数非必须，默认4000
+
 本实验中
+
 step=200时，train accuracy为95%左右，validation accuracy 88%，cross entropy 0.60
 
 step=1000,train accuracy 98%, validation accuracy 98%, cross entropy 0.2
