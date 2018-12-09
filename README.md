@@ -18,7 +18,7 @@ retrain命令为
 
 step=200时，train accuracy为95%左右，validation accuracy 88%，cross entropy 0.60
 
-step=1000, train accuracy 98%, validation accuracy 98%, cross entropy 0.2
+step=1000, train accuracy 98%, validation accuracy 98%, cross entropy 0.20
 
 step=5000, train accuracy 100%, validation accuracy 98%, cross entropy 0.04
 
